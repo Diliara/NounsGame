@@ -1,10 +1,10 @@
 {
-  "name": "NounsGame",
-  "version": "0.0.1",
-  "description": "BWE Nouns Game",
+  "name": "PartsOfSpeech",
+  "version": "0.1.0",
+  "description": "Parts of Speech Game",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Diliara/NounsGame.git"
+    "url": "git://github.com/Diliara/PartsOfSpeech.git"
   },
   "main": "index.js",
   "scripts": {
